@@ -1,0 +1,41 @@
+{
+  "name": "iori-angularjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/punisher1/iori-angularjs.git",
+  "author": "iori <m.zf@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-bootstrap-datetimepicker": "^1.1.4",
+    "angular-loading-bar": "^0.9.0",
+    "angular-messages": "^1.6.6",
+    "angular-sanitize": "^1.6.6",
+    "angular-ui-bootstrap": "^2.5.0",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "less": "^2.7.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "ng-file-upload": "^12.2.13",
+    "ng-handsontable": "^0.13.0",
+    "ng-notify": "^0.7.1",
+    "promise-polyfill": "^6.0.2",
+    "sweetalert2": "^6.6.8",
+    "systemjs": "^0.20.17",
+    "tether": "^1.4.0",
+    "ui-select": "^0.19.8"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.6.29",
+    "@types/angular-animate": "^1.5.8",
+    "@types/angular-ui-bootstrap": "^0.13.44",
+    "@types/angular-ui-router": "^1.1.37",
+    "@types/lodash": "^4.14.73",
+    "@types/ng-file-upload": "^12.2.1",
+    "@types/systemjs": "^0.20.3"
+  }
+}
